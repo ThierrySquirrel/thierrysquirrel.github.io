@@ -4,10 +4,11 @@ thierrysquirrel.github.io
 
 [中文](./README_zh_CN.md)
 
-The maintenance model of Java framework:
-- [x] Follow up on emerging technologies
-- [x] An active and stable field of technology
-- [x] Modules waiting for repair
+The maintenance model of Java framework:  
+- [x] Follow up on emerging technologies  
+- [x] An active and stable field of technology  
+- [x] Modules waiting for repair  
+- [x] License  
 
 # Follow up on emerging technologies:
 Some frameworks will closely monitor the latest technologies released in Java news, such as JDK21.  
@@ -23,3 +24,8 @@ Some frameworks will be temporarily unavailable and will stop updating.
 All modules can run stably, which is a challenge in the Java model and a goal that all developers need to achieve.  
 This is because a large number of popular frameworks are undergoing significant updates.  
 Gradually search for stable modules and then update them step by step.  
+
+# License:
+The project follows the [Apache2.0 License](http://www.apache.org/licenses/)  
+The license is free. You can download the code, modify it as needed, and use it in your own projects  
+When I comply with the Apache 2.0 License, I will not force others to comply with the Apache 2.0 License
