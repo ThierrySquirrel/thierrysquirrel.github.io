@@ -9,6 +9,7 @@ The maintenance model of Java framework:
 - [x] An active and stable field of technology  
 - [x] Modules waiting for repair  
 - [x] License  
+- [x] Payment Information Description  
 - [x] Payment Method  
 
 # Follow up on emerging technologies:
@@ -30,6 +31,13 @@ Gradually search for stable modules and then update them step by step.
 The project follows the [Apache2.0 License](http://www.apache.org/licenses/)  
 The license is free. You can download the code, modify it as needed, and use it in your own projects  
 When I comply with the Apache 2.0 License, I will not force others to comply with the Apache 2.0 License  
+
+# Payment Information Description:
+Tax form: If you are currently not in China, you can choose "not in China" and do not need to fill in any other tax information The payment exchange rate is the real-time currency exchange rate of Alipay and PayPal.  
+Verification of personal information: Alipay and PayPal may require you to verify your personal information and proof of residence address You can indicate your current address and currency type on the bill.  
+Payment limit: When your payment amount reaches approximately 100 RMB or 15 USD or more, please provide a series of verification materials, such as business license, purchase invoice, shipping certificate, etc.  
+Customer service consultation: Alipay and PayPal customer service may call to inquire about your business, including business model, overseas warehouse, future payment plan, etc You can indicate that you have purchased and shipped, are preparing to establish a warehouse, recruit personnel, etc., to demonstrate your reliability and development potential.  
+Account freezing and deposit: After submitting the required documents, Alipay and Paypal may freeze some of your account funds according to your situation Please avoid impulsive consumption.  
 
 # Payment Method:
 [AliPay](https://thierrysquirrel.github.io/alipay.jpg)  
