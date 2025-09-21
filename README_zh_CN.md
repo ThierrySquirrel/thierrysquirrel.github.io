@@ -9,6 +9,7 @@ Java框架的维护模型:
 - [x] 一个活跃而稳定的技术领域  
 - [x] 等待维修的模块  
 - [x] 许可证  
+- [x] 支付方式  
 
 # 跟进新兴技术:
 一些框架将密切关注Java新闻中发布的最新技术，如JDK21.  
@@ -29,3 +30,7 @@ Java框架的维护模型:
 该项目遵循[Apache2.0 License](http://www.apache.org/licenses/)  
 许可证是免费的.您可以下载代码,根据需要进行修改,并在自己的项目中使用它  
 当我遵守Apache2.0 License时不会强迫其他人遵守Apache2.0 License  
+
+# 支付方式:
+[AliPay](https://thierrysquirrel.github.io/alipay.jpg)  
+[PayPal](https://paypal.me/thierrysquirrel)  

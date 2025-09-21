@@ -9,6 +9,7 @@ The maintenance model of Java framework:
 - [x] An active and stable field of technology  
 - [x] Modules waiting for repair  
 - [x] License  
+- [x] Payment Method  
 
 # Follow up on emerging technologies:
 Some frameworks will closely monitor the latest technologies released in Java news, such as JDK21.  
@@ -28,4 +29,8 @@ Gradually search for stable modules and then update them step by step.
 # License:
 The project follows the [Apache2.0 License](http://www.apache.org/licenses/)  
 The license is free. You can download the code, modify it as needed, and use it in your own projects  
-When I comply with the Apache 2.0 License, I will not force others to comply with the Apache 2.0 License
+When I comply with the Apache 2.0 License, I will not force others to comply with the Apache 2.0 License  
+
+# Payment Method:
+[AliPay](https://thierrysquirrel.github.io/alipay.jpg)  
+[PayPal](https://paypal.me/thierrysquirrel)  
