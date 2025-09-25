@@ -10,6 +10,7 @@ The maintenance model of Java framework:
 - [x] Modules waiting for repair  
 - [x] License  
 - [x] Payment Information Description  
+- [x] Cross border payment and company account information explanation  
 - [x] Payment Method  
 
 # Follow up on emerging technologies:
@@ -38,6 +39,11 @@ Verification of personal information: Alipay and PayPal may require you to verif
 Payment limit: When your payment amount reaches approximately 100 RMB or 15 USD or more, please provide a series of verification materials, such as business license, purchase invoice, shipping certificate, etc.  
 Customer service consultation: Alipay and PayPal customer service may call to inquire about your business, including business model, overseas warehouse, future payment plan, etc You can indicate that you have purchased and shipped, are preparing to establish a warehouse, recruit personnel, etc., to demonstrate your reliability and development potential.  
 Account freezing and deposit: After submitting the required documents, Alipay and Paypal may freeze some of your account funds according to your situation Please avoid impulsive consumption.  
+
+# Cross border payment and company account information explanation:
+Cross border payment: When you need to make a cross-border payment operation, you need to confirm whether the other party's account is a personal account or a company account.  
+Company account information: When you use Alipay and Paypal Global, please note that the company account will not be able to receive individual transactions, and the company account will not be able to send individual transactions.  
+Cross border payment and shopping platform: When you use Alipay and Paypal Global, please note whether your current shopping platform supports global shopping.  
 
 # Payment Method:
 [AliPay](https://thierrysquirrel.github.io/alipay.jpg)  
