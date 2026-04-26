@@ -9,6 +9,8 @@ The maintenance model of Java framework:
 - [x] An active and stable field of technology  
 - [x] Modules waiting for repair  
 - [x] License  
+- [x] Version control 
+- [x] Billing Information  
 - [x] Payment Information Description  
 - [x] Cross border payment and company account information explanation  
 - [x] Payment Method  
@@ -33,6 +35,17 @@ The project follows the [Apache2.0 License](http://www.apache.org/licenses/)
 The license is free. You can download the code, modify it as needed, and use it in your own projects  
 When I comply with the Apache 2.0 License, I will not force others to comply with the Apache 2.0 License  
 
+# Version control:
+The current version control tool used is GitHub, which may include all versions of the project.  
+In version control tools, except for the latest project version, any version of the project is completely free.   
+In version control tools, except for the latest project version, no form of service is provided, and no form of fee is charged.  
+
+# Billing Information:
+Currently, all project products are only supported in inland China. We do not provide any form of service or charge any fees in international or cross-border regions.  
+Among all projects, only the latest version of the project provides services and charges fees .  
+The current operating model is enterprise operation.Shanghai Honghualin Information Technology Co., Ltd.  
+Your payment object is enterprise Alipay.  
+
 # Payment Information Description:
 Tax form: If you are currently not in China, you can choose "not in China" and do not need to fill in any other tax information The payment exchange rate is the real-time currency exchange rate of Alipay and PayPal.  
 Verification of personal information: Alipay and PayPal may require you to verify your personal information and proof of residence address You can indicate your current address and currency type on the bill.  
@@ -46,5 +59,4 @@ Company account information: When you use Alipay and Paypal Global, please note 
 Cross border payment and shopping platform: When you use Alipay and Paypal Global, please note whether your current shopping platform supports global shopping.  
 
 # Payment Method:
-[AliPay](https://thierrysquirrel.github.io/alipay.jpg)  
-[PayPal](https://paypal.me/thierrysquirrel)  
+[AliPay](https://github.com/ThierrySquirrel/thierrysquirrel.github.io/blob/main/alipay.jpg)
