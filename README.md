@@ -59,4 +59,4 @@ Company account information: When you use Alipay and Paypal Global, please note 
 Cross border payment and shopping platform: When you use Alipay and Paypal Global, please note whether your current shopping platform supports global shopping.  
 
 # Payment Method:
-[AliPay](https://github.com/ThierrySquirrel/thierrysquirrel.github.io/blob/main/alipay.jpg)
+[AliPay](https://thierrysquirrel.github.io/alipay.jpg)

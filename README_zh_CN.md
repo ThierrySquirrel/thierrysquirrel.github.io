@@ -60,4 +60,4 @@ Java框架的维护模型:
 跨境支付和购物平台:当您使用支付宝和Paypal Global时,请注意您当前的购物平台是否支持全球购物.  
 
 # 支付方式:
-[AliPay](https://github.com/ThierrySquirrel/thierrysquirrel.github.io/blob/main/alipay.jpg)
+[AliPay](https://thierrysquirrel.github.io/alipay.jpg)
