@@ -16,11 +16,11 @@ The maintenance model of Java framework:
 - [x] Payment Method  
 
 # Follow up on emerging technologies:
-Some frameworks will closely monitor the latest technologies released in Java news, such as JDK21.  
+Some frameworks will closely monitor the latest technologies released in Java news, such as JDK25.  
 Pursuing low coupling and more advanced technological fields, adapting well to the next major update of Java technology foundation.  
 
 # An active and stable field of technology:
-Some frameworks will choose widely used versions, such as JDK11.  
+Some frameworks will choose widely used versions, such as JDK25.  
 After a period of significant updates, the minimum JDK version supported by most frameworks will directly jump from 8 to 17.  
 Choose widely used technology versions to provide convenience for developers.  
 
